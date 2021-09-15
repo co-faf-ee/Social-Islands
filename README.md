@@ -1,6 +1,8 @@
-![GitHub Logo](/git.png)
-
-[Website](https://socialislands.net)
+<div align="center">
+    <img src="git.png"></img>
+    <br>
+    https://socialislands.net
+</div>
 
 # Social Islands
 
