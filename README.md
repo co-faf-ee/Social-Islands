@@ -6,6 +6,8 @@
 
 An Unconcluded Experimental 2D Social Avatar Networking Site
 
+rename .env.si to .env
+
 #### Copyright Disclaimer
 
 *Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.*
