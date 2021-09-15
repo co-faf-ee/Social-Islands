@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(.*)$ public/$1 [L]
+
+#ErrorDocument 403 /resources/views/errors/503.blade.php
+
+#order deny,allow
+#deny from all
+#allow from 109.147.208.184
+</IfModule>
+RewriteCond %{HTTP_HOST} ^hashcash\.kwame\.pw$
+RewriteRule ^/?$ "https\:\/\/hashcash\.socialislands\.net\/" [R=301,L]

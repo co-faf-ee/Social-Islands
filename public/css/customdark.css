@@ -1,0 +1,194 @@
+body{
+  color:#cccccc;
+  background-color:#4d4d4d;
+}
+
+
+
+a{
+  color:#cccccc;
+}
+
+.dtchat{
+  background-color: #595959;
+  background-image: linear-gradient(to right top, #595959, #595959, #595959, #595959, #595959);
+}
+
+p{
+  color:#cccccc;
+}
+
+.gold{
+    color:black;
+    background-color:#595959;
+}
+
+.select{
+  background-color:#595959;
+  color:#cccccc;
+}
+
+.is-warning{
+    color:black;
+}
+
+.navbar-item{
+  background-color:#595959;
+  color:#cccccc;
+}
+
+.dropdown{
+  background-color:#595959;
+  color:black;
+}
+
+::placeholder {
+  color:#cccccc;
+}
+
+.box{
+  background-color:#595959;
+  color:#cccccc;
+}
+
+.navbar{
+  background-color:#595959;
+  color:#cccccc;
+}
+
+.title{
+  color:#cccccc;
+}
+
+.has-text-black{
+  color:#cccccc;
+}
+
+.subtitle{
+  color:#cccccc;
+}
+
+
+.button{
+  background-color:#595959;
+  color:#cccccc;
+}
+
+.input{
+  background-color:#595959;
+  color:#cccccc;
+}
+
+.is-5{
+  color:#cccccc;
+}
+
+.label{
+  color:#cccccc;
+}
+
+.notification{
+  background-color:#595959;
+  color:#cccccc;
+}
+
+#promo1{
+  background-image:url('/imgs/landing/landingpromo1png.png');
+  background-size: 475px;
+  background-repeat: no-repeat;
+}
+
+#promo2{
+  background-image:url('/imgs/landing/landingpromo2.png');
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+#promo3{
+  background-image:url('/imgs/landing/landingpromo3.png');
+  background-size: 165px;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#cash{
+  color:#00ff00;
+  /* word-wrap: break-word; */
+}
+
+#avatar{
+  width:225px;
+  height:400px;
+}
+
+.is-rare{
+  background-color: #dd6521;
+  color: #dd6521;
+}
+
+.cropitem{
+  width:215px;
+  height:215px;
+  overflow: hidden;
+}
+
+.cropitem img{
+  margin: 0 0 0 0;
+  overflow: hidden;
+}
+
+.cropiteminven{
+  width:150px;
+  height:150px;
+  overflow: hidden;
+}
+
+.cropiteminven img{
+  margin: 0 0 0 0;
+  overflow: hidden;
+}
+
+.cropavatar{
+  width:100px;
+  height:100px;
+  overflow: hidden;
+}
+
+.cropavatar img{
+  margin: -40px 0 0 0;
+  overflow: hidden;
+}
+
+.ma-store{
+  margin-right:5px;
+}
+
+.avatar_full{
+  width:250px;
+  height:444px;
+}
+
+.gold{
+  background-color: #e6e600;
+  color:black;
+}
+
+.overlayc{
+  width:100%;
+  height:100%;
+  left:0px;
+  top:0px;
+  position:fixed;
+  z-index: 9;
+  background-color:rgba(0, 0, 0, 0.5);
+  visibility:hidden;
+}
+
+.overlay{
+  width:90%;
+  height:100%;
+  position:fixed;
+  z-index: 10;
+  visibility:hidden;
+}
